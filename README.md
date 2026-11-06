@@ -191,7 +191,7 @@ sequenceDiagram
 
 ---
 
-## 📚 References
+##  References
 
 1. Russell, S. & Norvig, P. *Artificial Intelligence: A Modern Approach* (4th ed.), Chapter 3: Solving Problems by Searching.
 2. Dijkstra, E. W. (1959). *A note on two problems in connexion with graphs.* Numerische Mathematik, 1, 269–271.
@@ -199,22 +199,8 @@ sequenceDiagram
 4. [Breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search): Wikipedia
 5. [Dijkstra's algorithm / Uniform-cost search](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm): Wikipedia
 6. [Red Blob Games: Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html): excellent visual explanation of BFS, Dijkstra/UCS and A*
-7. [Python `heapq` docs](https://docs.python.org/3/library/heapq.html) and [`collections.deque` docs](https://docs.python.org/3/library/collections.html#collections.deque)
-8. [Streamlit documentation](https://docs.streamlit.io/)
-9. [Matplotlib documentation](https://matplotlib.org/stable/)
-10. [Vite](https://vite.dev/) · [React](https://react.dev/) · [Tailwind CSS](https://tailwindcss.com/)
 
 ---
 
-## 🔭 Ideas for Extension
 
-- Add **A\*** with a Manhattan-distance heuristic and compare nodes expanded
-- Replace permutation search with a DP (Held–Karp) tour for more treasures
-- Add diagonal movement and step-by-step search animation
-- Export results to CSV for benchmarking across seeds
 
----
-
-## 📄 License
-
-Add your preferred license here (e.g. MIT) and include a `LICENSE` file.
