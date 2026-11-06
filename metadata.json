@@ -1,0 +1,6 @@
+{
+  "name": "BFS vs UCS Pathfinding Simulator",
+  "description": "Interactive simulation and comparison of Breadth-First Search and Uniform Cost Search on weighted terrain grids with treasures and automated audit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
