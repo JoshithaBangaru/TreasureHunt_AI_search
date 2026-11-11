@@ -1,4 +1,4 @@
-#  BFS vs UCS Pathfinding Simulator
+#  BFS vs UCS Pathfinding Treasure Hunt Simulator
 
 An interactive simulator that compares **Breadth-First Search (BFS)** and **Uniform Cost Search (UCS)** on weighted terrain grids with treasures, obstacles, and an automated performance audit.
 
